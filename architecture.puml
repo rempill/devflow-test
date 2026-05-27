@@ -1,5 +1,7 @@
-<!-- DevFlow Version: v1.0.0 -->
+<!-- DevFlow Version: v1.1.0 -->
 @startuml
 class Database {
+}
+class API {
 }
 @enduml
