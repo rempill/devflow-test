@@ -1,6 +1,6 @@
-<!-- DevFlow Version: v1.1.0 -->
+<!-- DevFlow Version: v1.1.1 -->
 @startuml
-class Database {
+class PostgresDatabase {
 }
 class API {
 }
